@@ -1,3 +1,7 @@
+# WilliamsMaja_08-01-2026
+# Here is a comment visually expressing that I have read
+# the directions correctly on the project page [mod 9].
+
 #!usr/bin/env python3
 #Module10codeDemo_numpy.py
 

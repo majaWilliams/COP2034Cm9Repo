@@ -1,4 +1,4 @@
-## REAMME.md for COP2034Cm9Repo
+## README.md for COP2034Cm9Repo
 
 This project contains the following files:
 
